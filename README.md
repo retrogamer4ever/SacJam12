@@ -41,3 +41,4 @@ newgrounds.com audio section
 
 
 Link to game: http://www.gamedevradio.net/SacJam12/public_html
+Link to jam: http://www.meetup.com/gamedeveloper/events/99170202/
