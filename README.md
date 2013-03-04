@@ -17,6 +17,9 @@ Bugs:
 I am not doing any real clean up so after a while things will slow down also the way the shapes spawn and interact with
 the player is a bit weird. Lots of other little issues... But it works soooooo yeah. 
 
+Audio:
+So may take a bit for the audio to load it's kinda big and I am not using jawsjs to load it... Need to figure that out.
+
 Controls:
 For the main menu and game over screen use spacebar key. During game play use all the arrow keys to move around.
 
@@ -34,6 +37,7 @@ NetBeans 7.3
 howler.js
 jaws.js
 Audacity
+newgrounds.com audio section
 
 
 Link to game: http://www.gamedevradio.net/SacJam12/public_html
